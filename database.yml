@@ -1,0 +1,7 @@
+db:
+  development:
+    adapter:  mysql2
+    host:     localhost
+    username: root
+    password: 
+    database: dmm
